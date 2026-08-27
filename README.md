@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about building backend systems, solving problems, and learning new technologies.
+  Passionate about backend development, problem solving, and building practical software projects.
 </p>
 
 ---
@@ -58,7 +58,7 @@ I enjoy building practical software projects, working with databases, and contin
 <tr>
 <td align="center">
 
-### Coming Soon...
+### Coming Soon
 
 I'm currently working on projects that will be showcased here.
 
@@ -71,7 +71,7 @@ I'm currently working on projects that will be showcased here.
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankitkumar-0258&hide_border=true" />
+  <img src="./assets/streak-stats.svg" width="100%" />
 </p>
 
 ---
