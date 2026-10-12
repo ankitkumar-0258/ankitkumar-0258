@@ -36,19 +36,6 @@ I'm a Computer Science and Engineering student focused on **Data Structures & Al
 
 *Coming Soon — building projects focused on backend development and practical problem-solving.*
 
-## GitHub Contributions
-
-
-## GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/2563eb/ankitkumar-0258"
-    alt="Ankit's GitHub contribution calendar"
-    width="100%"
-  />
-</p>
-
 
 *Solve problems. Build systems. Keep learning.*
 
