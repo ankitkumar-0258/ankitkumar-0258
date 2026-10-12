@@ -32,10 +32,18 @@ I'm a Computer Science and Engineering student focused on **Data Structures & Al
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+
 ## Projects
 
-*Coming Soon — building projects focused on backend development and practical problem-solving.*
+### [BMI Calculator](https://github.com/ankitkumar-0258/BMI)
 
+A simple BMI Calculator project.
+
+[View Repository](https://github.com/ankitkumar-0258/BMI)
+
+---
+
+<div align="center">
 
 *Solve problems. Build systems. Keep learning.*
 
