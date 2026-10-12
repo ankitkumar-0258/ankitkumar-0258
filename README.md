@@ -38,13 +38,17 @@ I'm a Computer Science and Engineering student focused on **Data Structures & Al
 
 ## GitHub Contributions
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar-0258&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+## GitHub Contributions
 
-</div>
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2563eb/ankitkumar-0258"
+    alt="Ankit's GitHub contribution calendar"
+    width="100%"
+  />
+</p>
 
-<div align="center">
 
 *Solve problems. Build systems. Keep learning.*
 
